@@ -14,3 +14,7 @@
                     ██║     ██║  ██║██║███████║██████╔╝███████╗███████╗           
                     ╚═╝     ╚═╝  ╚═╝╚═╝╚══════╝╚═════╝ ╚══════╝╚══════╝       
                                            Just messing around with Vue
+
+
+live demo
+https://joelrennert.github.io/ultimatefrisbee/
